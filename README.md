@@ -4,6 +4,8 @@
 
 **바로 가기: https://cs196083.github.io/pixel-lab-sim/**
 
+**픽셀 모자이크 퀴즈만 보기: https://cs196083.github.io/pixel-lab-sim/mosaic.html**
+
 ## 구성
 
 1. 픽셀 퀴즈: 모자이크 그림을 강·중·약 단계로 보며 맞히기
